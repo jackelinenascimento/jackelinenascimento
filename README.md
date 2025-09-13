@@ -20,9 +20,6 @@
   <a href="mailto:jackelinenascimento0709@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://dev.to/jackienascimento" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="46" height="35" alt="dev.to logo" />
-  </a>
 </div>
 
 ---
