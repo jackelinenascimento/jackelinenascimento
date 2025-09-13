@@ -8,7 +8,6 @@
 - 🎯 Backend Software Engineer, focused on building scalable and maintainable systems  
 - 🌱 Specializing in **Software Architecture** (Hexagonal, Clean Architecture, Microservices)  
 - ☁️ **AWS Certified**, experienced with cloud-native solutions  
-- 👩‍🏫 Technical mentor at **CloudGirls**, encouraging women to enter tech  
 - 💬 Passionate about sharing knowledge through talks, articles and community projects  
 
 ---
@@ -21,7 +20,7 @@
   <a href="mailto:jackelinenascimento0709@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://dev.to/jackelinenascimento" target="_blank">
+  <a href="https://dev.to/jackienascimento" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="46" height="35" alt="dev.to logo" />
   </a>
 </div>
@@ -30,9 +29,6 @@
 
 ### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="47" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" width="47" alt="kotlin logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" width="47" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo" />
